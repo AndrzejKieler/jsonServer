@@ -1,0 +1,62 @@
+    {
+      "prices": [
+      {
+        "priceType": "PRC_2",
+        "defaultAmount": "13.813",
+        "chargeType": "RECR\n\t\t\t\t",
+        "vatRate": "23",
+        "VAT": "3.18",
+        "grossAmount": "16.99",
+        "isMandatory": "yes",
+        "isReset": "no",
+        "configuration": {
+          "occId": "0",
+          "seqNo": "1",
+          "socketId": {
+          },
+          "parameters": {
+            "trxTypeId": {
+            },
+            "param1": {
+            },
+            "trxReason": {
+            },
+            "trxSign": {
+            },
+            "trxObjectType": "C\n\t\t\t\t\t"
+          }
+        }
+      },
+      {
+        "priceType": "PRC_1",
+        "defaultAmount": "0",
+        "chargeType": "ACT\n\t\t\t",
+        "vatRate": "23",
+        "VAT": "0.0",
+        "grossAmount": "0.0",
+        "isMandatory": "yes",
+        "isReset": "no",
+        "configuration": {
+          "occId": "0",
+          "seqNo": "1\n\t\t\t\t",
+          "socketId": {
+          },
+          "parameters": {
+            "trxTypeId": {
+            },
+            "param1": {
+            },
+            "trxReason": {
+            },
+            "trxSign": {
+            },
+            "trxObjectType": "C\n\t\t\t\t\t"
+          }
+        }
+      }
+    ],
+    "result": {
+      "errorCode": "0",
+      "errorDesc": "OK"
+    }
+  }
